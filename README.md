@@ -1,4 +1,5 @@
 # Amazon Home Page Clone
+[LIVE DEMO](https://anushkaps.github.io/amazon-clone-js/)
 
 ## Overview
 This project is a single-page clone of the Amazon homepage. I created it to practice and enhance my HTML, CSS, and basic JavaScript skills. It is a visually accurate replica of Amazon's homepage, focusing on layout, design, and interactivity.
